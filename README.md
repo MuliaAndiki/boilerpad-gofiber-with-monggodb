@@ -116,5 +116,6 @@ Authorization: Bearer <JWT_TOKEN>
 Response:
 {
   "message": "Logout berhasil, token di-blacklist"
+  "datas" :
 }
 ````
